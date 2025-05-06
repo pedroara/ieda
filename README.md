@@ -15,7 +15,7 @@ O projeto foi construído após conversas com a profissional, com foco na simpli
 🛠 Tecnologias utilizadas
 	•	Ruby on Rails
 	•	HTML/CSS
-	•	SQLite ou PostgreSQL (dependendo do ambiente)
+	•	SQLite
 
 📅 Duração do projeto
 
